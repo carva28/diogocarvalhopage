@@ -766,13 +766,14 @@ span {
 #text_contact p{
     color: white;
     font-size: 20px;
-    font-family: Lato;
+    font-style: Lato;
 }
 
 #text_contact i{
     color: white;
     font-size: 20px;
 }
+
 
 ::-webkit-scrollbar-thumb:window-inactive {
    /* Select the thumb when the browser window isn't in focus */
@@ -817,13 +818,15 @@ color: red;}
             width: 23%;
     }
     
+	#contactos a{
+		margin-top: 20px;
+	}
+	
     #icons{
             
-      width: 195px;
-    float: none;
-    margin: auto;
-    overflow: hidden;
-    clear: both;
+      margin: auto;
+    	overflow: hidden;
+
     }
 
 }
