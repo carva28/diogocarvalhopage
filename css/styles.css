@@ -818,6 +818,10 @@ color: red;}
             width: 23%;
     }
     
+	#contactos a{
+		margin-top: 20px;
+	}
+	
     #icons{
             
       width: 195px;
