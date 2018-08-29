@@ -824,11 +824,9 @@ color: red;}
 	
     #icons{
             
-      width: 195px;
-    float: none;
-    margin: auto;
-    overflow: hidden;
-    clear: both;
+      margin: auto;
+    	overflow: hidden;
+
     }
 
 }
