@@ -763,13 +763,16 @@ span {
     
 }
 
-#text_contact i{
+#text_contact p{
     color: white;
     font-size: 20px;
     font-family: Lato;
 }
 
-
+#text_contact i{
+    color: white;
+    font-size: 20px;
+}
 
 ::-webkit-scrollbar-thumb:window-inactive {
    /* Select the thumb when the browser window isn't in focus */
